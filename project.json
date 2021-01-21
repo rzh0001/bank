@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "16CDEFAF-1",
+    "build_number": 1,
+    "build_time": 1605630467817,
+    "release": false
+  },
+  "encryptLevel": 1,
+  "useFeatures": [],
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashText": "仅限学习使用，禁止非法使用！",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "建行助手",
+  "optimization": {
+    "removeOpenCv": true,
+    "unusedResources": true
+  },
+  "packageName": "com.smile.pay",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.1"
+}
